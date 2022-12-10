@@ -22,11 +22,21 @@
   </br>
 </div> 
 </br>
-<div>
-<a href="https://github.com/DgSantanaBr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantanaBr&layout=compact&langs_count=7&theme=dracula" "align =right">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DgSantanaBr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<h3 align="center">
+  <b>👨‍💻 Top Languages Repo and Commit Details</b>
+</h3>
+<p align=center>
+  <div align=center>
+  <a href="https://github.com/DgSantanaBr">
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=DgSantanaBr&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true"/>
+    </a>
+    <a href="https://github.com/DgSantanaBr/github-readme-stats" title="Go to Source">
+       <img align="left" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantanaBr&layout=compact&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true"/>
+       <br><br><br><br><br><br><br><br><br><br>
+
+  </div>
+</p>
+
  <h2>Entre em contato:</h2>
 
 <div>
