@@ -20,23 +20,13 @@
   <img align="center" alt="HTML5" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"> 
   <img align="center" alt="CSS3" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">  
   <img align="center" alt="JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+ 
   </br>
 </div> 
 </br>
-<h3 align="center">
-  <b>👨‍💻 Top Languages Repo and Commit Details</b>
-</h3>
-<p align=center>
-  <div align=center>
-  <a href="https://github.com/DgSantanaBr">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=DgSantanaBr&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true"/>
-    </a>
-    <a href="https://github.com/DgSantanaBr/github-readme-stats" title="Go to Source">
-       <img align="left" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantanaBr&layout=compact&bg_color=050F2C&title_color=0195DD&theme=chartreuse-dark&hide_border=true"/>
-       <br><br><br><br><br><br><br><br><br><br>
 
-  </div>
-</p>
+
 <img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" alt="*">
   <br><br><br>
  <h2>Entre em contato:</h2>
