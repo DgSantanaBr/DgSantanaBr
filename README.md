@@ -1,9 +1,10 @@
 <h1 align=center><b>👋 Hello! Welcome to my Github profile.</b></h1>
-<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" alt="*">
 <h3 align="center" >Olá, me chamo Diego ! 😄🔻</h3>
 <div align =center>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="100" 
 </div>
+<br>
+
 
 <h4>
  <p align="center">
@@ -36,6 +37,7 @@
 
   </div>
 </p>
+<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif" alt="*">
   <br><br><br>
  <h2>Entre em contato:</h2>
 
