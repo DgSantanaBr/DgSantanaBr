@@ -35,7 +35,7 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DgSantanaBr&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantanaBr&hide_progress=true)](https://github.com/DgSantanaBr/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgSantanaBr&theme=dark&layout=compact" width="410" /></p>
 
 
 
