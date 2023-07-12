@@ -2,7 +2,7 @@
 
  <p align="left">
      &bull; Olá, me chamo Diego.</br>
-     &bull; Dev. Front-End.</br>
+     &bull; Dev. Front-End Jr.</br>
  </p>
 
 <div align ="left">
